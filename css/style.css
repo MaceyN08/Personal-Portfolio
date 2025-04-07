@@ -1,0 +1,163 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+.hero-section {
+    padding: 80px 0;
+}
+.hello-text {
+    color: #888;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+}
+.name-heading {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.about-section {
+    padding: 60px 0;
+    text-align: center;
+}
+.about-heading {
+    font-size: 1.8rem;
+    color: #555;
+    margin-bottom: 40px;
+    position: relative;
+}
+.about-section p {
+    text-align: center;
+    margin: 0 auto; /* Optional: Ensures proper centering */
+}
+.about-heading:after {
+    content: '';
+    display: block;
+    width: 50px;
+    height: 2px;
+    background: #888;
+    margin: 15px auto;
+}
+.skills-section {
+    padding: 60px 0;
+    text-align: center;
+}
+.skills-heading {
+    font-size: 1.8rem;
+    color: #555;
+    margin-bottom: 40px;
+    position: relative;
+}
+.skills-section p {
+    text-align: center;
+    margin: 0 auto;
+}
+.skills-heading:after {
+    content: '';
+    display: block;
+    width: 50px;
+    height: 2px;
+    background: #888;
+    margin: 15px auto;
+}
+.skills-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.skills-list li {
+    width: 30%;
+    margin: 10px;
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.my-work-section {
+    padding: 60px 0;
+    text-align: center;
+}
+.my-work-heading {
+    font-size: 1.8rem;
+    color: #555;
+    margin-bottom: 40px;
+    position: relative;
+}
+.my-work-section p {
+    text-align: center;
+    margin: 0 auto;
+}
+.my-work-heading:after {
+    content: '';
+    display: block;
+    width: 50px;
+    height: 2px;
+    background: #888;
+    margin: 15px auto;
+}
+.my-work-section img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.my-work-section h3 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    color: #333;
+}
+.my-work-section h3::after {
+    content: '';
+    display: block;
+    width: 50px;
+    height: 2px;
+    background: #888;
+    margin: 10px auto;
+}
+.contact-section {
+    padding: 60px 0;
+    text-align: center;
+}
+.contact-heading {
+    font-size: 1.8rem;
+    color: #555;
+    margin-bottom: 40px;
+    position: relative;
+}
+.contact-section p {
+    text-align: center;
+    margin: 0 auto;
+}
+.contact-heading:after {
+    content: '';
+    display: block;
+    width: 50px;
+    height: 2px;
+    background: #888;
+    margin: 15px auto;
+}
+.contact-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.contact-list li {
+    width: 30%;
+    margin: 10px;
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
