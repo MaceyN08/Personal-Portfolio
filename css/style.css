@@ -4,12 +4,13 @@ body {
 .navbar-brand {
     font-weight: bold;
     font-size: 1.8rem;
+    color: #496b46;
 }
 .hero-section {
     padding: 80px 0;
 }
 .hello-text {
-    color: #888;
+    color: #71ac72;
     letter-spacing: 1px;
     margin-bottom: 5px;
 }
@@ -24,7 +25,7 @@ body {
 }
 .about-heading {
     font-size: 1.8rem;
-    color: #555;
+    color: #3d7038;
     margin-bottom: 40px;
     position: relative;
 }
@@ -37,7 +38,7 @@ body {
     display: block;
     width: 50px;
     height: 2px;
-    background: #888;
+    background: #576c57;
     margin: 15px auto;
 }
 .skills-section {
@@ -46,7 +47,7 @@ body {
 }
 .skills-heading {
     font-size: 1.8rem;
-    color: #555;
+    color: #3d7038;
     margin-bottom: 40px;
     position: relative;
 }
@@ -59,7 +60,7 @@ body {
     display: block;
     width: 50px;
     height: 2px;
-    background: #888;
+    background: #888888;
     margin: 15px auto;
 }
 .skills-list {
@@ -75,7 +76,7 @@ body {
     margin: 10px;
     text-align: center;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #789b75;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -85,7 +86,7 @@ body {
 }
 .my-work-heading {
     font-size: 1.8rem;
-    color: #555;
+    color: #3d7038;
     margin-bottom: 40px;
     position: relative;
 }
@@ -110,7 +111,7 @@ body {
 .my-work-section h3 {
     font-size: 1.5rem;
     margin-top: 20px;
-    color: #333;
+    color: #3d7038;
 }
 .my-work-section h3::after {
     content: '';
@@ -126,7 +127,7 @@ body {
 }
 .contact-heading {
     font-size: 1.8rem;
-    color: #555;
+    color: #3d7038;
     margin-bottom: 40px;
     position: relative;
 }
@@ -155,7 +156,7 @@ body {
     margin: 10px;
     text-align: center;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #789b75;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -164,5 +165,13 @@ body {
     height: auto;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(15, 87, 12, 0.1);
+}
+.hero-section h1 {
+    font-size: 3rem;
+    color: #3d7038;
+    margin-bottom: 20px;
+}
+.social-link {
+    color: #343634;
 }
 
